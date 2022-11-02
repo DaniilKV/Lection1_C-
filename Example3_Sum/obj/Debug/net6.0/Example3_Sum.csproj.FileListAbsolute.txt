@@ -1,0 +1,15 @@
+C:\Users\e247357\OneDrive - WFT\Desktop\Учеба\Lection_1\Example3_Sum\obj\Debug\net6.0\Example3_Sum.csproj.AssemblyReference.cache
+C:\Users\e247357\OneDrive - WFT\Desktop\Учеба\Lection_1\Example3_Sum\obj\Debug\net6.0\Example3_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e247357\OneDrive - WFT\Desktop\Учеба\Lection_1\Example3_Sum\obj\Debug\net6.0\Example3_Sum.AssemblyInfoInputs.cache
+C:\Users\e247357\OneDrive - WFT\Desktop\Учеба\Lection_1\Example3_Sum\obj\Debug\net6.0\Example3_Sum.AssemblyInfo.cs
+C:\Users\e247357\OneDrive - WFT\Desktop\Учеба\Lection_1\Example3_Sum\obj\Debug\net6.0\Example3_Sum.csproj.CoreCompileInputs.cache
+C:\Users\e247357\OneDrive - WFT\Desktop\Учеба\Lection_1\Example3_Sum\bin\Debug\net6.0\Example3_Sum.exe
+C:\Users\e247357\OneDrive - WFT\Desktop\Учеба\Lection_1\Example3_Sum\bin\Debug\net6.0\Example3_Sum.deps.json
+C:\Users\e247357\OneDrive - WFT\Desktop\Учеба\Lection_1\Example3_Sum\bin\Debug\net6.0\Example3_Sum.runtimeconfig.json
+C:\Users\e247357\OneDrive - WFT\Desktop\Учеба\Lection_1\Example3_Sum\bin\Debug\net6.0\Example3_Sum.dll
+C:\Users\e247357\OneDrive - WFT\Desktop\Учеба\Lection_1\Example3_Sum\bin\Debug\net6.0\Example3_Sum.pdb
+C:\Users\e247357\OneDrive - WFT\Desktop\Учеба\Lection_1\Example3_Sum\obj\Debug\net6.0\Example3_Sum.dll
+C:\Users\e247357\OneDrive - WFT\Desktop\Учеба\Lection_1\Example3_Sum\obj\Debug\net6.0\refint\Example3_Sum.dll
+C:\Users\e247357\OneDrive - WFT\Desktop\Учеба\Lection_1\Example3_Sum\obj\Debug\net6.0\Example3_Sum.pdb
+C:\Users\e247357\OneDrive - WFT\Desktop\Учеба\Lection_1\Example3_Sum\obj\Debug\net6.0\Example3_Sum.genruntimeconfig.cache
+C:\Users\e247357\OneDrive - WFT\Desktop\Учеба\Lection_1\Example3_Sum\obj\Debug\net6.0\ref\Example3_Sum.dll
